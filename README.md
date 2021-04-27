@@ -1,12 +1,7 @@
 # Deploy-Web-Menggunakan-Docker-Compose
 Penugasan Oprec Camin Periode 2021 - Kelompok 1
 
-## Anggota Kelompok : 
-- Ishaq
-- Iqbal
-- Tauchid
-
-## Breakdown Penugasan : 
+## Breakdown : 
 -  Mount database mysql yang berada di container ke host
 -  Web server menggunakan docker Nginx
 -  PHP menggunakan docker PHP
